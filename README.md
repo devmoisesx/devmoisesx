@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=40&duration=3500&pause=1000&color=7693B1FF&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=750&height=100&lines=Ol%C3%A1+%F0%9F%91%8B%2C+Sou+Mois%C3%A9s+Xavier!;Sou+um+Desenvolvedor+Front-End.)]()
 
 <p align="center">    
-     <a target="_blank" href="https://moisesxavier23.github.io/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Meu Portifolio"></a>
+     <a href="https://moisesxavier23.github.io/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Meu Portifolio"></a>
      <a target="_blank" href="https://www.linkedin.com/in/moises-xavier"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 </div>
 
