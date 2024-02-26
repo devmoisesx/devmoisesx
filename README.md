@@ -18,7 +18,7 @@
 </p>
 
 ## <center>Minhas Contribuições</center>
-![snake gif](https://github.com/MoisesXavier09/MoisesXavier09/blob/output/github-snake.svg)
+![snake gif](https://github.com/MoisesXavier09/MoisesXavier09/blob/output/github-snake-dark.svg)
 
 ## <center>Status do Github</center>
 ![Moisés GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesxavier09&show_icons=true&theme=nord)
