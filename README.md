@@ -8,13 +8,24 @@
 </div>
 
 ## Alguns dos meus projetos
+<div align="center" style="display: flex">
+    <a href="https://github.com/MoisesXavier23/Zaphira">
+        <img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=moisesxavier23&repo=Zaphira&theme=nord"/>
+    </a>
+    <a href="https://github.com/MoisesXavier23/Training-Studio">
+        <img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=moisesxavier23&repo=Training-Studio&theme=nord"/>
+    </a>
+</div>
+
+<!--
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moisesxavier23&repo=Zaphira&theme=nord&card_width=150px)](https://github.com/MoisesXavier23/Zaphira)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moisesxavier23&repo=Zaphira&theme=nord)](https://github.com/MoisesXavier23/Zaphira)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moisesxavier23&repo=Training-Studio&theme=nord)](https://github.com/MoisesXavier23/Training-Studio)
 
 </div>
+-->
 
 ## Tecnologias que utilizo
 <p align="center">
@@ -28,12 +39,26 @@
 
 ## Status do Github
 
+<div align="center" style="display: flex">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=moisesxavier09&show_icons=true&theme=nord"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesxavier09&theme=nord&layout=compact"/>
+    </a>
+    <a href="https://git.io/streak-stats">
+        <img height="170em" src="https://streak-stats.demolab.com?user=MoisesXavier09&theme=nord&locale=pt_BR&exclude_days=Sun%2CSat"/>
+    </a>
+</div>
+
+<!--
 <div align="center">
 
-[![Moisés GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesxavier09&show_icons=true&theme=nord&card_width=150)](https://github.com/anuraghazra/github-readme-stats)
+[![Moisés GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesxavier09&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesxavier09&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MoisesXavier09&theme=nord&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 </div>
+-->
