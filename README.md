@@ -3,6 +3,7 @@
 <p align="center">    
      <a href="https://moisesxavier23.github.io/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Meu Portifolio"></a>
      <a target="_blank" href="https://www.linkedin.com/in/moises-xavier"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+     <a target="_blank" href="https://codepen.io/devmoisesx"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
 </div>
 
 ## Tecnologias que utilizo
